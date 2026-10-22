@@ -7,6 +7,8 @@ produkty = [
     "paszet",
     "papryka",
     "czekolada",
+    "słonecznik",
+    "cebula",
 ]
 for produkt in produkty:
     print(f"- {produkt}")
